@@ -1,0 +1,29 @@
+site_name: DevOps Superlab
+site_description: A full-stack DevOps Superlab by Enmanuel Mejia
+repo_url: https://github.com/EnmanuelMejia/devops-superlab
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Getting Started:
+      - Quickstart: quickstart.md
+      - Local Cluster (kind): kind.md
+  - GitOps:
+      - Argo CD: gitops/argocd.md
+  - CI/CD:
+      - Pipelines: cicd/pipelines.md
+  - Apps:
+      - Services: apps/services.md
+  - Ops:
+      - Observability: ops/observability.md
+      - Policies: ops/policy.md
